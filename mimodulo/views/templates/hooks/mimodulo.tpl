@@ -1,0 +1,1 @@
+<p>{l s='Hola mundo'}</p>
